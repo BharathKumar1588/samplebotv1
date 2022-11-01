@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "steel-signifier-364303",
+  "private_key_id": "a978a0810779a79f3311b4e2a85734f332805d07",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC1h2nn94FEdhgn\nQM0hyLLdVvntWc4dIuwoe/Tts6xhrnYWO2hz8CU8OhndBrooVETieBd14TZ7dpO3\n3qH5a6FiW7P5DUG11s2Ib+YkJi9RBMCH+ysAc1Vta49Igc+dsEhg4+rhAZX3u37o\n5fJp/vHs3KRiRX6R4uAgUzI12mb1IBFKxcWcJOQYGQsAjh9aH9kEwtyICjfKPSZU\nSOutB6utzgoAFGUR7tYOvEH4+qhcM2qWQeFovtFy+Tp87S01fYdrsBGSV4cdElix\nKPH5AOYaJie4xR9EQiVYGAUl2et4IC45tTw20TaejN85dRsq1GcyPvZUg2838Z9u\nkOrEJ9vnAgMBAAECggEAENUep+jWbr+4m6MxoklW9JlFEZI7P45mcZaU7pmziVdB\nEeyuUdnZygzlKw6donG19X4HRuH8SFSFfA5D3LnzPAie1qA5EKB7bIRbxcxYpN2Y\n8MMEiMUpDb1kiuemlcur2ngn5ndcLZ2QNg5kfRmr2zfWclpZUzPDbpvoUwAOffo0\nBOXWVlCpqGNBk5kqZcLISyYKD8Vfw3gGbJTjl1L6tFNMGRXW12Omor2Ten4fXVw9\nJHH8oV0rfZk/5ADchfMX/SHpo8mKp5pamZdvsfKa2377ro5KGl/Co4INxAGTbCbz\nIWpzXrTBaDNnFnKhb5mdz9mUEKQNFfVbC02gOk3EgQKBgQDxOUTIOjFx0832sYx4\nLXjb4mpw3UnbldiBQCurt5W2zQ+9OiK4+vyhOROeyIYEAXehlK56v3sH9gViAg5X\nM49KSBh0XfGo6wpRqnA6uK0Y8Qv6OqO7cwoy0dG/q3uXV0hAMH3AsIoL3OyCDS0L\nL7U466Sw5gx1s9e46f31nYgxpwKBgQDApgvelQH7IdZ51qnHPEYDKT1zd+MMrWNX\n65Nn+DOREYZ3DTlU69SXOX0R5MWdQcT9VwtJ39ORw9ySSY0hobsZs5VOhp7NwpuL\nWLKC31cuAQwO2CeuWjfc0XuB15Q7XqBwGxiHZcBb4I4RsHwil0fmOHlVDRB+VswN\nKW1b223LwQKBgBvmX8o40Nc1hDDwQCr2N3BXM7ByJ8S6BByO634k8a/+778XJkT2\n4plTHK3Uy4tTEB8kLzoLQ5OcJOs9CaOUVxJkXE+5PeYnqT3g1LI2Ae9MkfITLjTU\nDW3rTrM4hkbu1XB3K1RKFu1gVAqGs5sDnZZDyvya3v4OGvlMNw9ddQ8pAoGARalF\nTX0wNDEuLuxyg/rFjksRT3mgfmsMKzSiHsxfSSu/JbmAa7bDLtO46AmDc7PemYUq\nLdJj3KeoULWL9QdYcpi/ep+vONQQDrlKA4zjJ111kMCUyLUS0iRltrPPhBBZj3Ac\n1Ij0n8R5WugoWxG9DACLzzdkKWsVagT66GZWM4ECgYEAsKptrLuIYgTv7dfKG+aP\neDVu6peTs/sahPwDTe3BX1At+OPcRRlGoDtCzWx9iCEC8i+4SUj50qeSWkXDgpo4\nqkADfEk1S+F3I8E3PfMRYcO89dKz4Ka5P9HoacZyoO5+d8ZTr6MCxIq96H4FAXmT\nsS2Sbgj4BmDEz77a+YYQty4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mayabot-admin@steel-signifier-364303.iam.gserviceaccount.com",
+  "client_id": "112513100483719738333",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mayabot-admin%40steel-signifier-364303.iam.gserviceaccount.com"
+}

@@ -1,2 +1,3 @@
 Flask
 Requests
+google-cloud-bigquery==3.3.5
