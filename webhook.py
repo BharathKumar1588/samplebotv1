@@ -35,7 +35,7 @@ def makeResponse(req):
 
     action = result.get("action")
 
-    if action = "bookcar":
+    if action == "bookcar":
         parameters = result.get("parameters")
 
         city = parameters.get("geo-city")
